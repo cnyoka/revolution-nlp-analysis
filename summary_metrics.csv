@@ -1,0 +1,13 @@
+Metric,Value
+Documents ingested,6572
+Documents after date filter,5729
+Date range,2023-01-15 to 2026-11-07
+Documents with negative sentiment (%),36.5
+App store reviews negative (%),65.0
+Ticketing content negative (%),77.8
+App store mean rating (of 5),1.7
+Highest churn-risk source,"app_reviews (23.4% at risk, n=175)"
+World Cup 2026 mention rate (%),0.7
+Leading emotion,Joy (19.7%)
+Most distinctive negative term,sucks
+Most distinctive positive term,grace
