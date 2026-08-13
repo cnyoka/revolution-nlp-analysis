@@ -1,1 +1,35 @@
+# ── R ─────────────────────────────────────────────────────────────────────
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+*.Rcheck/
+.httr-oauth
 
+# ── Credentials — never commit ────────────────────────────────────────────
+.Renviron
+.env
+*.pem
+*.key
+secrets.*
+credentials.*
+
+# ── OS ────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editors ───────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*~
+
+# ── Knitr / RMarkdown output ──────────────────────────────────────────────
+*.html
+*_cache/
+*_files/
+*.utf8.md
+*.knit.md
